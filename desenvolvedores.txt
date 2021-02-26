@@ -1,0 +1,11 @@
+Desenvolvedores 
+
+
+Web developer - Desenvolvedor web- é o profissional que desenvolve ou faz manutenção em sistemas da internet
+
+Desenvolvedor front-end- Interface fontal- responsavel por contruir textar e projetar interfaces.
+
+Desenvolvedor Back-end- parte secundaria- cuida da parte mais complexa de um site ou aplicativo.
+
+Desenvolvedor Full-Stack - Pilha de Solução- possui conhecimento em back-end e front-end, ou seja trabalha com os dois.
+
